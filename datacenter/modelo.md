@@ -80,7 +80,7 @@ A visita ao Datacenter do IFRN foi uma oportunidade única para os alunos entend
 - A relevância de boas práticas de segurança para proteger dados sensíveis.
 - A aplicação de conceitos de virtualização e gerenciamento de redes.
 
-Essa experiência reforçou os conhecimentos adquiridos em sala de aula, preparando os alunos para os desafios do mercado de trabalho na área de tecnologia.
+Essa experiência reforçou os conhecimentos adquiridos em sala de aula com o professor Minora, nos dando uma visão para os desafios do mercado de trabalho na área de tecnologia.
 
 ---
 ## Imagens da strutura Física:
