@@ -8,7 +8,7 @@
 
 ## Aluno
 
-- nome: 
-- matrícula: 
-
+- nome: Tâmara Thais Lourenço de Carvalho
+- matrícula: 20232014040040
 ## Respostas dos exercícios
+(dentro da pasta de cada assunto/atv, estão as respostas)
