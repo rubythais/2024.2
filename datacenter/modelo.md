@@ -41,7 +41,7 @@ O Instituto Federal do Rio Grande do Norte (IFRN) é uma instituição de ensino
 Um datacenter é uma infraestrutura composta por equipamentos e sistemas destinados ao armazenamento, processamento e gestão de dados. Ele funciona como o "coração tecnológico" de organizações, abrigando servidores, roteadores, switches e outros dispositivos responsáveis por garantir a operação contínua de sistemas digitais.
 
 ### Qual o motivo da visita?
-A visita ao Datacenter do IFRN teve como objetivo proporcionar aos alunos uma experiência prática e aprofundada sobre o funcionamento, manutenção e gestão de um ambiente crítico para o suporte às operações tecnológicas da instituição. Além disso, a atividade complementa o conteúdo teórico da disciplina de Sistemas Operacionais.
+A visita ao Datacenter do IFRN teve como objetivo proporcionar a nós, alunos uma experiência prática e aprofundada sobre o funcionamento, manutenção e gestão de um ambiente crítico para o suporte às operações tecnológicas da nossa instituição. Além disso, a atividade complementa o conteúdo teórico da disciplina de Sistemas Operacionais.
 
 ---
 
