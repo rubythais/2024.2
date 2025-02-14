@@ -83,7 +83,7 @@ A visita ao Datacenter do IFRN foi uma oportunidade única para os alunos entend
 Essa experiência reforçou os conhecimentos adquiridos em sala de aula, preparando os alunos para os desafios do mercado de trabalho na área de tecnologia.
 
 ---
-## Estrutura Física
+## Imagens da strutura Física:
 
 ![WhatsApp Image 2025-02-14 at 7 37 12 PM](https://github.com/user-attachments/assets/9d119b9f-7e2c-44e8-b60e-263ba7a0cc77)
 
