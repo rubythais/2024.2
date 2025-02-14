@@ -8,8 +8,8 @@
 
 ## Aluno
 
-- nome: Tâmara Thais Lourenço de Carvalho
-- matrícula: 20232014040040
+- Nome: Tãmara Thais Lourenço de Carvalho 
+- Matrícula: 20232014040040
 
 ## Respostas dos exercícios
 
