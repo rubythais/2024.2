@@ -1,0 +1,9 @@
+import random
+
+numeros = [random.randint(1, 100) for _ in range(1000)]
+
+with open('numeros_aleatorios.txt', 'w') as arquivo:
+    for numero in numeros:
+        arquivo.write(f"{numero}\n")
+
+print("Arquivo 'numeros_aleatorios.txt' gerado com sucesso.")
