@@ -30,7 +30,7 @@ O objetivo principal da visita foi compreender o funcionamento dos setores admin
 
 ## Descrição da Visita
 
-Após nos deslocarmos do **Campus Natal Central** para a Reitoria, fomos recepcionados pelo **Diretor de TI**, que nos apresentou o ambiente e a organização estrutural da Reitoria. Durante a apresentação, ele explicou as principais demandas da equipe de TI, com destaque para a **gestão e manutenção do SUAP (Sistema Unificado de Administração Pública)**, plataforma essencial para o funcionamento administrativo e acadêmico do IFRN.
+Após sairmos do **Campus Natal Central** para a Reitoria, fomos recepcionados pelo **Diretor de TI**, que nos apresentou o ambiente e a organização estrutural da Reitoria. Durante a apresentação, ele explicou as principais demandas da equipe de TI, com destaque para a **gestão e manutenção do SUAP (Sistema Unificado de Administração Pública)**, plataforma essencial para o funcionamento administrativo e acadêmico do IFRN.
 
 Além disso, ele compartilhou informações sobre as tecnologias utilizadas no sistema, bem como os diferentes níveis de acesso e papéis dentro da plataforma. Em seguida, tivemos a oportunidade de conhecer a infraestrutura física do setor de tecnologia, incluindo as salas de servidores e o monitoramento do **datacenter**, que já havíamos visitado anteriormente.
 
